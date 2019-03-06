@@ -2,3 +2,4 @@
 /target/
 /server/
 /out/validators/0.toml
+/out/db/
