@@ -1,2 +1,2 @@
-# fashionblockchain
+# Fashion Blockchain
 Blockchain for Fashioncoin
